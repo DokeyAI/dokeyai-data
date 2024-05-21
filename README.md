@@ -2,8 +2,10 @@
 This is the repo for dokeyai's public data.
 
 ## Data Files
-- `products.json`
-- `categories.json`
+See the [Release](https://github.com/DokeyAI/dokeyai-data/releases)
+
+- `dokeyai-products.json`
+- `dokeyai-categories.json`
 
 ## Data Sources
 - User Submitted (Free for now)
