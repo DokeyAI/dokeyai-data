@@ -20,3 +20,9 @@ Note: We use ChatGPT to review if the product is AI-Related, and classify it.
 To use the screenshots directly on your website.
 
 See [#1](https://github.com/DokeyAI/dokeyai-data/issues/1)
+
+## Submit AI Product
+
+Just submit your product here [DokeyAI Submit](https://dokeyai.com/submit)
+
+We will review it and add it to the `dokeyai-products.json`.
