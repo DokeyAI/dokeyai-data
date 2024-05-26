@@ -14,3 +14,9 @@ See the [Release](https://github.com/DokeyAI/dokeyai-data/releases)
 - HuggingFace (Comming Soon)
 
 Note: We use ChatGPT to review if the product is AI-Related, and classify it.
+
+## Screenshot Permit
+
+To use the screenshots directly on your website.
+
+See [#1](https://github.com/DokeyAI/dokeyai-data/issues/1)
