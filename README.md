@@ -8,7 +8,7 @@ See the [Release](https://github.com/DokeyAI/dokeyai-data/releases)
 - `dokeyai-categories.json`
 
 ## Data Sources
-- User Submitted (Free for now)
+- User Submitted (Free for now) - [Submit](https://dokeyai.com/submit)
 - ProductHunt (AI Related)
 - Github (Comming Soon)
 - HuggingFace (Comming Soon)
