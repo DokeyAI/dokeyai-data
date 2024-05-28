@@ -1,0 +1,20 @@
+{
+  "name": "dokeyai-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync.js",
+    "dump": "./scripts/dump.sh",
+    "release": "node scripts/release.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@libsql/client": "^0.6.0",
+    "@octokit/rest": "^20.1.1",
+    "dotenv": "^16.4.5"
+  }
+}
