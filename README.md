@@ -1,11 +1,15 @@
 # DokeyAI Data
-This is the repo for dokeyai's public data.
+
+This is the repo for dokeyai's public products and categories.
 
 ## Data Files
+
 See the [Release](https://github.com/DokeyAI/dokeyai-data/releases)
 
 - `dokeyai-products.json`
 - `dokeyai-categories.json`
+
+All categories avaliable here: [Categories](https://dokeyai.com/category)
 
 ## Data Sources
 - User Submitted (Free for now) - [Submit](https://dokeyai.com/submit)
