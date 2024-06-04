@@ -1,6 +1,6 @@
 # DokeyAI Data
 
-This is the repo for dokeyai's public products and categories.
+This is the repo for dokeyai's public AI products and categories data.
 
 ## Data Files
 
