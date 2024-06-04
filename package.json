@@ -10,7 +10,7 @@
     "release": "node scripts/release.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "savokiss",
   "license": "ISC",
   "dependencies": {
     "@libsql/client": "^0.6.0",
