@@ -8,8 +8,11 @@ See the [Release](https://github.com/DokeyAI/dokeyai-data/releases)
 
 - `dokeyai-products.json`
 - `dokeyai-categories.json`
+- `dokeyai-directories.json`
 
-All categories avaliable here: [Categories](https://dokeyai.com/category)
+All categories are avaliable here: [Categories](https://dokeyai.com/category)
+
+All directories are avaliable here: [AI Tools Directories](https://dokeyai.com/directories)
 
 ## Data Sources
 - User Submitted (Free for now) - [Submit](https://dokeyai.com/submit)
